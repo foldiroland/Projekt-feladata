@@ -12,7 +12,7 @@ body {
 }
 
 header {
-    background-color: #4CAF50;
+    background-color: #65bacf;
     color: white;
     text-align: center;
     padding: 1rem 0;
@@ -31,7 +31,7 @@ section {
 h2 {
     margin-bottom: 15px;
     color: #2c3e50;
-    border-bottom: 2px solid #4CAF50;
+    border-bottom: 2px solid #92e2d8;
     padding-bottom: 5px;
 }
 
@@ -52,7 +52,7 @@ h2 {
 
 .user-name {
     font-size: 1.5rem;
-    color: #4CAF50;
+    color: #8fd4e6;
     margin-bottom: 10px;
 }
 

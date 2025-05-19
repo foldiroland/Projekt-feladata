@@ -59,7 +59,7 @@ function displayPostsByUser(posts, users) {
     let html = '';
     
     for (const userId in postsByUser) {
-        const userName = usersById[userId] || Felhasználó ${userId};
+        const userName = usersById[userId] || Felhasználó [userId];  // Fixed template literal
         const userPosts = postsByUser[userId];
         
         html += `
